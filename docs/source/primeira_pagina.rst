@@ -14,6 +14,8 @@ Teste de texto aqui.
 
 **01.a.I.Negritar um tópico**
 
+Colocar um código de Python.
+
 .. code-block:: python
    :linenos:
    
