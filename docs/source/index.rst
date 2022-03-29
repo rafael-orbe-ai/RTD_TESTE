@@ -2,4 +2,4 @@ MEU PRIMEIRO RTD !
 ========
 
 .. toctree::
-  :caption: PYTHON
+  primeira_pagina
