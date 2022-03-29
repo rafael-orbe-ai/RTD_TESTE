@@ -1,4 +1,4 @@
-.. image:: images/sandbox.jpg
+.. image:: docs/images/sandbox.jpg
    :align: center
    :width: 600
 ____________________________________________________________
