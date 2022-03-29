@@ -5,4 +5,4 @@ MEU PRIMEIRO RTD !
   :caption: PRIMEIRA PÁGINA
   :maxdepth: 1
   
-  primeira_pagina
+  primeira_pagina.rst
