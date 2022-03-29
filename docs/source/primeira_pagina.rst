@@ -21,3 +21,9 @@ Colocar um código de Python.
    
    #01.Marcador de posição vazio
    print("Meu nome é {} e eu tenho {} anos".format(primeiro_nome, idade)) 
+   
+Colocar o resultado do cógigo aqui.
+
+.. code-block:: python
+
+   >>> Meu nome é Rafael e eu tenho 33 anos
