@@ -1,4 +1,4 @@
-.. image:: images/logo/sandbox.jpg
+.. image:: images/sandbox.jpg
    :align: center
    :width: 600
 ____________________________________________________________
