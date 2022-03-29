@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'RTD RAFA'
+project = 'PROJETO: RTD RAFA'
 copyright = '2022,Rafael Arevalo'
 author = 'Rafael Arevalo'
 
