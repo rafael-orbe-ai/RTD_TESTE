@@ -2,4 +2,7 @@ MEU PRIMEIRO RTD !
 ========
 
 .. toctree::
-  primeira_pagina
+  :caption: PRIMEIRA PÁGINA
+  :maxdepth: 1
+  
+  PRIMEIRA PÁGINA
